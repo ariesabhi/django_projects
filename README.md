@@ -1,0 +1,1 @@
+It is a django projects repository that consists various django project. It will help any developer to understand django from scrath to advance level.  
